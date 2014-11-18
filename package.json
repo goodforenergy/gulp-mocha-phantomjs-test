@@ -1,0 +1,17 @@
+{
+  "name": "gulp-mocha-phantom-test",
+  "version": "0.0.1",
+  "description": "Test!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goodforenergy",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-mocha-phantomjs": "^0.5.1",
+    "mocha": "^2.0.1",
+    "should": "^4.3.0"
+  }
+}
